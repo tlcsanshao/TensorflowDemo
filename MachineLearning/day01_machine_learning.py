@@ -217,7 +217,7 @@ def pca_demo():
 
 if __name__ == "__main__":
     # 代码1：sklearn数据集使用
-    # datasets_demo()
+    datasets_demo()
     # 代码2：字典特征抽取
     # dict_demo()
     # 代码3：文本特征抽取：CountVecotrizer
@@ -237,4 +237,4 @@ if __name__ == "__main__":
     # 代码10：低方差特征过滤
     # variance_demo()
     # 代码11：PCA降维
-    pca_demo()
+    # pca_demo()
